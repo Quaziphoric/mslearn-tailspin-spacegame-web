@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/fallajs1/Demo%20Project%20-%20Microsoft%20Learn/_apis/build/status%2FQuaziphoric.mslearn-tailspin-spacegame-web%20(2)?branchName=main)](https://dev.azure.com/fallajs1/Demo%20Project%20-%20Microsoft%20Learn/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
